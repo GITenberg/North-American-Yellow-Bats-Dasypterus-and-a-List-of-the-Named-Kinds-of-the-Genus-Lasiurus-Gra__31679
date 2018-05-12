@@ -1,0 +1,36 @@
+_repo: North-American-Yellow-Bats-Dasypterus-and-a-List-of-the-Named-Kinds-of-the-Genus-Lasiurus-Gra__31679
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Jones, J. Knox
+    birthdate: 1929
+    deathdate: 1992
+    gutenberg_agent_id: '33991'
+    url: http://www.gutenberg.org/2009/agents/33991
+  - agent_name: Hall, E. Raymond (Eugene Raymond)
+    alias: Hall, Eugene Raymond
+    birthdate: 1902
+    deathdate: 1986
+    gutenberg_agent_id: '26108'
+    url: http://www.gutenberg.org/2009/agents/26108
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2010-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31679'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bats'
+- !lcc 'QH'
+title: North American Yellow Bats, 'Dasypterus,' and a List of the Named Kinds of
+  the Genus Lasiurus Gray
+url: http://www.gutenberg.org/ebooks/31679
